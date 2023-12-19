@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @PianoPsychopath
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+PianoPsychopathやで！
+Team夢Yume lead Dev
+Languages:
+English - Native
+Spanish - Native
+Japanese - N4
+German - B1
+Can read French and Italian
+
+Contact Through the Hyrule X Minecraft Project Discord Server: https://discord.gg/dh28J2W
 
 <!---
 PianoPsychopath/PianoPsychopath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
