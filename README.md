@@ -12,7 +12,9 @@ Languages:
 
 ===============================
 
-Contact Through the Hyrule X Minecraft Project Discord Server: https://discord.gg/dh28J2W
+Contact Through the Hyrule X Minecraft Project Discord Server: https://discord.gg/dh28J2W or twitter https://twitter.com/PianoPsychopath
+
+
 
 <!---
 PianoPsychopath/PianoPsychopath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
