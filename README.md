@@ -2,15 +2,18 @@ PianoPsychopathやで！
 Team夢Yume lead Dev
 Languages:
 
-English - Native
+-English - Native
 
-Spanish - Native
-Japanese - N4
+-Spanish - Native
 
-German - B1
+-Japanese - N4
 
-Can read French and Italian
+-German - B1
 
+-Can read French and Italian
+
+
+========
 Contact Through the Hyrule X Minecraft Project Discord Server: https://discord.gg/dh28J2W
 
 <!---
