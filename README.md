@@ -10,10 +10,7 @@ Languages:
 
 -German - B1
 
--Can read French and Italian
-
-
-========
+===============================
 
 Contact Through the Hyrule X Minecraft Project Discord Server: https://discord.gg/dh28J2W
 
