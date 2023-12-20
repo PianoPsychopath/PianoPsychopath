@@ -7,7 +7,7 @@ Languages:
 
 -Spanish - Native
 
--Japanese - N4
+-Japanese - N4(writing) N3(conversational)
 
 -German - B1
 
