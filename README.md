@@ -1,5 +1,5 @@
 PianoPsychopathやで！
-Team夢Yume lead Dev
+Team夢Yume lead Dev (still a beginner)
 
 Languages:
 
